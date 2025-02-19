@@ -24,6 +24,7 @@ The following data sets covering influenza in the United States will be used dur
 - Influenza deaths by geography - Source CDC
 - Population data by geography, time, age, and gender - Source: US Census Bureau
 ### Tableau Visualizations
+#### Story - - [Preparing for Influenza Season](https://public.tableau.com/app/profile/zbigniew.wierci.ski/viz/2_9-Story/PreparingfortheupcomingInfluenzaSeasonInTheUnitedStates?publish=yes)
 - [Spatial Distribution of Influenza Mortality (2009–2017)](https://public.tableau.com/app/profile/zbigniew.wierci.ski/viz/2_7SpatialAnalysis_17337754420810/2_7SpatialAnalysis-1)
 - [Relationship Between Influenza Death Rate (% of Total Population for Age Groups 75-84 and 85+)](https://public.tableau.com/app/profile/zbigniew.wierci.ski/viz/Exercise2_6-BubleChart/Exercise2_6-BubleChart)
 - [Scatterplot-Relationship Between Influenza Death Rate (% of Total Population for Age Groups 75-84 and 85+)](https://public.tableau.com/app/profile/zbigniew.wierci.ski/viz/Exercise2_6-Scatterplot_17333967730520/Exercise2_6-Scatterplot)
